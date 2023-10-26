@@ -1,8 +1,12 @@
-# React + Vite
+# Instructions
+1. git clone https://github.com/Mohdaqib18/logicarts.git
+2. npm install
+3. npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://github.com/Mohdaqib18/logicarts/assets/37264147/36c6600b-6a3e-4480-9ff1-af2ed990f48c
+
